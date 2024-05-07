@@ -1,0 +1,3 @@
+/home/johan/code/rm_2024/cmake-build-debug/CMakeFiles/rm_2024.dir
+/home/johan/code/rm_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/johan/code/rm_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
